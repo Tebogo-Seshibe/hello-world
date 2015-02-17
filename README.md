@@ -1,3 +1,4 @@
-# hello-world
-Just getting started.
-Hyellowuu
+# Introduction
+
+So I'm just learning how to use the basics of GitHub.
+Hi. 😄
